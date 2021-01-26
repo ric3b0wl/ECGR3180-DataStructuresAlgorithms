@@ -1,0 +1,6 @@
+Assignment 3 is now available herePreview the document (also under Files/Assignments in Canvas.) 
+It will be due a week from today on Thursday October 22 by midnight.
+
+Problem 1 requires the use of a deque to make a stack. 
+Problem 2 requires the use of a vector to make a stack. 
+Problem 3 requires the use of a dynamic array to make a list.

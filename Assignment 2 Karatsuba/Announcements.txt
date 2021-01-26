@@ -1,0 +1,8 @@
+Assignment 2 (dealing with Recursion and Algorithm Analysis) is now available herePreview the document (also under Files/Assignments in Canvas.) It will be due a week from today on Tuesday October 13 in Canvas as follows:
+
+Problem 1: submit karatsuba.cpp with your solution.
+
+Problem 2: submit main.cpp with your solution.
+
+Problems 3 and 4: submit a PDF of your answers.
+

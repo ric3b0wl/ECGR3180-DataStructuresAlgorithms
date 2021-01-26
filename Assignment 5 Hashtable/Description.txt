@@ -1,0 +1,31 @@
+Write a program that takes as input a set of words (vector of strings) and returns groups of anagrams for those words. An anagram is a word that can be using the letters of another word exactly once. Code MUST run in O(n), where n is the number of words. Complete your code here:
+
+anagram.cppPreview the document
+
+unordered_map class will be very useful for this assignment ( http://cplusplus.com/reference/unordered_map/unordered_map/ (Links to an external site.) )
+
+Example: if the list is "debitcard", "elvis", "silent", "badcredit", "lives", "freedom", "listen", "levis",
+
+the output should be:
+
+freedom  //word has no anagram in this list
+
+silent listen
+
+debitcard badcredit
+
+elvis lives levis
+
+Note that your particular order could be different.
+
+Here's the test program:
+
+anagram_test.cppPreview the document
+
+To see if you are up to the LeetCcode standards, head to 
+
+https://leetcode.com/problems/group-anagrams/ (Links to an external site.)
+
+Include a list of tests that you would use to test the robustness of your code. Include a description of the test (or pseudocode, or even running code) as comments in the anagram.cpp file you submit.
+
+Note: Brute force solutions will get zero credit. Your solution should be O(n).
